@@ -567,5 +567,5 @@ st.markdown("---")
 st.caption("Built with ❤️ using Streamlit")
 st.caption("© 2025 Avash's Data Science Math Toolkit. All rights reserved.")
 st.caption(
-    "🔗 Data Trainer available at: [avash-data-trainer.streamlit.app](https://avash-data-trainer.streamlit.app)"
+    "🔗 Data Trainer available at: [avash-data-trainer.streamlit.app](https://data-trainer-2.streamlit.app)"
 )
